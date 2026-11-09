@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Vincent Ugochukwu Obidozie
 
-<!--
-**realvincent2/realvincent2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Founder & Lead Developer at UGO-TECH WORLD
+I build robust software solutions, including POS systems and Clinic Management applications, based in Nigeria. 🇳🇬
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+
+---
+
+### 🏢 What I'm Building
+- 🛒 **Business Monitor:** A comprehensive, multi-tenant Point of Sale (POS) and Inventory Management system built with Laravel.
+- 🏥 **Bua-Clinic:** A modern clinic management system handling patient records, billing, and AI-assisted triage.
+
+---
+
+### 📫 Connect with me
+- 💼 [UGO-TECH WORLD](https://github.com/realvincent2) 
+- 📍 Based in Nigeria
