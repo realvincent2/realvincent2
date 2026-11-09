@@ -21,5 +21,7 @@ I build robust software solutions, including POS systems and Clinic Management a
 ---
 
 ### 📫 Connect with me
-- 💼 [UGO-TECH WORLD](https://github.com/realvincent2) 
+- 💼 [UGO-TECH WORLD](https://github.com/realvincent2)
+- ugoobidozie@gmail.com
+- +2348036969077 
 - 📍 Based in Nigeria
